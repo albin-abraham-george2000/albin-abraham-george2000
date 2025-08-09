@@ -50,5 +50,5 @@ Enthusiastic about the **SDLC phases**, and experienced with **Agile** and **Scr
 
 ## 📫 Let's Connect
 - **Email**: albinabrahamgeorge2000@gmail.com  
-- **LinkedIn**: [linkedin.com/in/albin-abraham-george](https://www.linkedin.com/in/albin)  
+- **LinkedIn**: [linkedin.com/in/albin-abraham-george](https://www.linkedin.com/in/albin-abraham-george-4066a8268/)  
 - **Resume** :[click here](./assests/AlbinAbrahamGeorgeResume%20(2)%20(1).pdf)  
