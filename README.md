@@ -37,7 +37,6 @@ Enthusiastic about the **SDLC phases**, and experienced with **Agile** and **Scr
 
 
 
----
 
 <!-- ## 📌 Featured Projects
 | Project | Description | Tech Stack |
