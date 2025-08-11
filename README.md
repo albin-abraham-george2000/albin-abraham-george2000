@@ -17,7 +17,7 @@ Enthusiastic about the **SDLC phases**, and experienced with **Agile** and **Scr
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white)
 
 **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -32,8 +32,8 @@ Enthusiastic about the **SDLC phases**, and experienced with **Agile** and **Scr
 **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-**Algorithms**  
-![Dynamic Programming](https://img.shields.io/badge/Dynamic%20Programming-4B8BBE?logo=codeforces&logoColor=white)
+<!-- **Algorithms**  
+![Dynamic Programming](https://img.shields.io/badge/Dynamic%20Programming-4B8BBE?logo=codeforces&logoColor=white) -->
 
 
 
