@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Albin Abraham George
 
-<p align="center">
+<!-- <p align="center">
   <img src="../albin-abraham-george2000/assests/logo.webp" alt="Banner" style="width:100%; height:auto;" />
-</p>
+</p> -->
 
 ## 🚀 About Me
 *I'm a **junior Python developer** with a strong interest in becoming a **full-stack developer**.
